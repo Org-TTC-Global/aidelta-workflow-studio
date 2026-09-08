@@ -130,7 +130,7 @@
     "@storybook/addon-docs": "^10.1.0",
     "@storybook/addon-links": "^10.1.0",
     "@storybook/react": "^10.1.0",
-    "@storybook/react-vite": "^10.1.0",
+    "@storybook/react-vite": "^10.6.0",
     "@modelcontextprotocol/server-everything": "^0.6.2",
     "@playwright/test": "^1.56.0",
     "@swc/cli": "^0.5.2",
